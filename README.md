@@ -133,9 +133,3 @@ npm run dev            # http://localhost:5173
 ```
 
 Por padrão o frontend aponta para `http://localhost:5000`. Para usar outra API, defina `VITE_API_URL` em `frontend/.env`.
-
-## Próximos passos
-
-- Testes automatizados para as regras de matrícula e faturamento
-- Aplicar o middleware de autenticação de forma uniforme a todas as rotas de alunos e cursos
-- Restringir o CORS ao domínio do frontend em produção
